@@ -80,6 +80,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/com/learnJava/InterfaceAndAbstract/AbstactExample.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/com/learnJava/InterfaceAndAbstract/Bank.java">
           <value>
             <Attribute>

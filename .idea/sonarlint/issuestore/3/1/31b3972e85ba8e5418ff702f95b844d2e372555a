@@ -1,0 +1,11 @@
+
+q
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ûñş 
+H
+java:S1611"2Remove the parentheses around the "name" parameter(ûñş 
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºëÏØ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó–ğòúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›²÷á
+\
+java:S1192"FDefine a constant instead of duplicating this literal "java8" 3 times.(ºëÏØ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âöÊ™

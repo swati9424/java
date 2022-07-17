@@ -1,0 +1,17 @@
+
+K
+java:S1611"5Remove the parentheses around the "student" parameter(¿§Ž¡
+B
+java:S1612",Replace this lambda with a method reference.(¿§Ž¡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿§Ž¡
+K
+java:S1611"5Remove the parentheses around the "student" parameter(¼Û–”
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼Û–”
+P
+java:S1611"5Remove the parentheses around the "student" parameter(ƒû«êýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒû«êýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³®ªÝþÿÿÿÿ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(‘È§I
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(µˆ¾Íúÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(­ê¤¤
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âöÊ™

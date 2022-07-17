@@ -1,0 +1,9 @@
+
+j	java:S116"PRename this field "State" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΥΎρΰϊÿÿÿÿ
+o
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8™όδο0
+D
+java:S1185"(Remove this method to simply inherit it.(™”” 8όδο0
+G
+java:S1068"*Remove this unused "county" private field.(’γϊς8ΫΰΐΊ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Τ¥‰
